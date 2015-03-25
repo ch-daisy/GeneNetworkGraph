@@ -30,6 +30,7 @@ The gene network JSON requires the data format below:
 		  "title": "a1", 
 		  "cover": "a1.jpg", 
 		  "label": "desc", 
+		  "group":1
 		  "info1":"",
 		  "info2":"",
 		  "id": 1768448
